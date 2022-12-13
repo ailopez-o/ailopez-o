@@ -16,6 +16,12 @@
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl4nxxx7w020009mdmpbkiyt4/stats?cursusId=21&coalitionId=205" alt="ailopez-'s 42 stats" /></a>
 </p>
 
+<h2 align="center">GITHUB STATS</h2>
+</p>
+<br>
+<p align="center"> <a href="https://github.com/ailopez-o"><img src="https://github-profile-trophy.vercel.app/?username=ailopez-o" alt="ailopez-o" /></a> </p>
+<br>
+
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
