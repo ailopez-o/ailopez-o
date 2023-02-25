@@ -1,8 +1,19 @@
 
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Aitor</h1>
-<h4 align="center">Electronic engineer and 42 Barcelona student</h4>
+<h4 align="center">Electronic Engineer | C / C++ Software Engineer | 42 Barcelona Student</h4>
 </div>
+
+## Languages:
+<img src="https://skillicons.dev/icons?i=c,cpp,html,css">
+
+## Tools:
+<img src="https://skillicons.dev/icons?i=git,github,vscode,aws">
+
+## How to reach me: 
+  - Via LinkedIn: [Aitor López de Audícana](https://www.linkedin.com/in/aitor-lopez-de-audicana-70125b38/)
+
+## General stats: 
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=ailopez-o" alt="ailopez-o"/>  
