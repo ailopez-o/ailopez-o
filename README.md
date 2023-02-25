@@ -5,10 +5,11 @@
 </div>
 
 ## Languages:
-<img src="https://skillicons.dev/icons?i=c,cpp,html,css">
+<img src="https://skillicons.dev/icons?i=c,cpp,bash,php,html,css">
+
 
 ## Tools:
-<img src="https://skillicons.dev/icons?i=git,github,vscode,aws">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,aws,arduino,wordpress">
 
 ## How to reach me: 
   - Via LinkedIn: [Aitor López de Audícana](https://www.linkedin.com/in/aitor-lopez-de-audicana-70125b38/)
